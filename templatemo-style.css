@@ -1072,6 +1072,10 @@
      font-size: 30px;
     }
 
+    .home-info {
+      margin-top: -50px;
+    }
+
     .home-info span {
       margin-top: 20px;
     }
